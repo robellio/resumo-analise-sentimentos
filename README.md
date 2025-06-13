@@ -41,3 +41,16 @@
 ### suponha que você tenha uma Alexa e precise que através de um comando de voz uma funcionalidade específica seja ativada. Então, pedirá para acender a luz e ela executará o seu comando de voz.
 
 <img src="images/img01.png" alt="tabela">
+
+## Speech Studio
+
+### Como funciona?
+
+### Você envia um arquivo de áudio e ele vai transcrever em texto ou você envia um texto e ele vai gerar uma voz com o conteúdo contido no texto.
+
+### Objetivos:
+
+* ### Conversão de fala em texto
+* ### Texto em fala com vozes naturais
+* ### Tradução de fala em tempo real
+
